@@ -1,0 +1,251 @@
+Portfolio Cv Data – Abd Elrahman Desouki
+AbdElrahman Desouki Sayed
+Professional Title
+
+Accountant | Odoo ERP Specialist | Tech-Oriented Business Systems Developer | AI-Driven Automation Enthusiast
+
+Professional Summary
+
+I am a professionally trained accountant with a strong academic background in Accounting and Finance, combined with practical experience in financial operations and ERP systems. Over the years, I have evolved beyond traditional accounting into a hybrid profile that blends financial expertise, Odoo ERP implementation, and modern technology skills, including AI-assisted workflows and automation.
+
+My strength lies in understanding business processes from an accountant’s perspective and translating them into efficient, scalable digital systems. I specialize in configuring and customizing Odoo ERP to support accounting, sales, inventory, manufacturing, HR, and POS operations, ensuring data accuracy, compliance, and operational efficiency.
+
+I am highly motivated to continuously learn, adapt, and grow—both professionally and personally—while delivering real business value through technology-driven solutions.
+
+Core Identity
+
+Primary Profession: Accountant
+
+Technical Specialization: Odoo ERP (Enterprise Edition)
+
+Industry Focus: Business Systems, Financial Operations, Digital Transformation
+
+Mindset: Process Optimization, Automation, Data Accuracy, Continuous Improvement
+
+Key Skills Overview
+Accounting & Finance
+
+Financial Accounting & Bookkeeping
+
+General Ledger Management
+
+Trial Balance (Monthly & Annual)
+
+Financial Reporting Support
+
+Journal Entries & Adjustments
+
+Accounts Payable & Receivable
+
+Commercial Accounting for Trading Companies
+
+Financial Data Accuracy & Reconciliation
+
+Understanding of Internal Controls
+
+Odoo ERP Expertise
+
+Odoo Enterprise Edition (EE)
+
+Accounting Module Configuration
+
+Sales & Purchase Management
+
+Inventory & Warehouse Management
+
+Manufacturing (MRP) Workflows
+
+Point of Sale (POS)
+
+Human Resources (HR)
+
+Website & Business Integration
+
+Business Process Mapping in Odoo
+
+End-to-End Business Cycle Implementation
+
+Real-world Business Case Applications
+
+Technical & Digital Skills
+
+ERP Functional Analysis
+
+System Configuration & Optimization
+
+Business Workflow Design
+
+Data Structuring for Web Platforms
+
+AI-Assisted Productivity Tools
+
+Automation-Oriented Thinking
+
+Digital Documentation & Reporting
+
+Artificial Intelligence (Applied Usage)
+
+Using AI tools to enhance accounting efficiency
+
+Automating repetitive financial tasks
+
+Intelligent data analysis and reporting support
+
+AI-assisted documentation and system design
+
+Leveraging AI for learning, troubleshooting, and optimization
+
+Professional Experience
+Accountant
+
+Location: Cairo, Egypt
+Period: October 2017 – September 2019
+
+Responsibilities & Achievements:
+
+Maintained accounting records for commercial trading companies
+
+Registered daily financial transactions accurately
+
+Prepared monthly and annual trial balances
+
+Participated in the preparation of financial reports
+
+Worked with:
+
+American Journal
+
+Subsidiary Ledgers
+
+General Ledger
+
+Supported senior accountants in closing procedures
+
+Ensured data consistency and compliance with accounting standards
+
+Education
+Bachelor’s Degree in Accounting & Finance
+
+Institution: Ain Shams University – Faculty of Commerce
+Graduation Date: May 2020
+
+Major: Accounting & Finance
+
+Academic Focus Areas:
+
+Financial Accounting
+
+Cost Accounting
+
+Management Accounting
+
+Auditing
+
+Financial Analysis
+
+Business Law & Economics
+
+Professional Training
+Odoo ERP Enterprise Edition Training
+
+Trainer: Ahmed Elsaka
+Period: December 2020 – January 2021
+
+Covered Modules:
+
+Sales Management
+
+Purchase Management
+
+Inventory & Warehouse
+
+Accounting & Finance
+
+Manufacturing (MRP)
+
+Point of Sale (POS)
+
+Human Resources (HR)
+
+Website Module
+
+Training Highlights:
+
+Full business cycle implementation in Odoo
+
+Real-world business cases:
+
+Manufacturing Company Scenario
+
+Corporate Enterprise Scenario
+
+Understanding data flow between departments
+
+Aligning accounting logic with ERP automation
+
+Languages
+
+Arabic: Native
+
+English: Intermediate
+(B1)
+
+German: Basic to Intermediate (A2 – B1)
+
+Personal Strengths
+
+Strong analytical mindset
+
+Detail-oriented with high accuracy
+
+Business-oriented thinking
+
+Fast learner with high adaptability
+
+Passion for systems and optimization
+
+Ability to bridge accounting and technology
+
+Continuous improvement mentality
+
+Interests & Activities
+
+Sports & Fitness (Boxing)
+
+Reading & Writing
+
+Technology & Digital Systems
+
+Business Process Improvement
+
+ERP Systems & Automation
+
+Career Objective
+
+To build a strong career at the intersection of accounting, ERP systems, and modern technology, where I can contribute to business efficiency, digital transformation, and intelligent automation. I aim to continuously expand my expertise in Odoo ERP and AI-driven solutions while growing into a senior functional and business systems role.
+
+Portfolio Usage Notes
+
+This data structure is designed to be:
+
+Used directly in a one-page portfolio website
+
+Converted into JSON / CMS data easily
+
+Mapped to UI sections (Hero, About, Skills, Experience, Education, Services)
+
+Scalable for future additions (projects, certifications, blog, case studies)
+
+Contact Information
+
+Name: AbdElrahman Desouki Sayed
+
+Email: desoukicol@gmail.com
+
+Phone: +20 106 695 4021
+
+Location: Shoubra El Kheima, Cairo, Egypt
+
+Nationality: Egyptian
+
+This CV data is optimized for modern portfolio websites, ERP-focused professional branding, and accountant-to-tech hybrid profiles.
