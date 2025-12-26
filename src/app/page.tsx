@@ -21,7 +21,7 @@ const pageVariants = {
     opacity: 1,
     transition: {
       duration: 0.5,
-      ease: "easeOut",
+      ease: "easeOut" as const,
     },
   },
   exit: {
@@ -30,7 +30,7 @@ const pageVariants = {
       duration: 0.3,
     },
   },
-};
+} as const;
 
 // Section transition wrapper
 function Section({
